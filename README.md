@@ -52,6 +52,35 @@
 - 다시 준비 버튼을 모든 인원이 누르면 게임이 시작된다.
 
 
+### 통신프로토콜
+
+----------------------------------------
+
+```java
+
+  package protocol;
+
+  public interface protocol {
+
+    String READY = "READY";
+    String SERVER = "SERVER";
+    String CHAT = "CHAT";
+    String ID = "ID";
+    String IDLIST = "IDLIST";
+    String START = "START";
+    String END = "END";
+    String TURN = "TURN";
+    String NOTTURN = "NOTTURN";
+    String SKIP = "SKIP";
+    String EXIT = "EXIT";
+    String ANSWER = "ANSWER";
+    String DRAW = "DRAW";
+    String COLOR = "COLOR";
+
+}
+
+
+```
 
 
 
