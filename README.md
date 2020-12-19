@@ -128,6 +128,4 @@
 	<img src="https://w7.pngwing.com/pngs/980/706/png-transparent-microsoft-powerpoint-presentation-slide-show-microsoft-office-365-ppt-text-rectangle-presentation.png" alt="위의 이미지를 누르면 연결됩니다.">
 <a>
 
-<img href= "https://drive.google.com/drive/folders/16cjtx1r5zZsiqekZ_c-DLSvDyja6z6c_?usp=sharing" width="100" height="100" src="https://w7.pngwing.com/pngs/980/706/png-transparent-microsoft-powerpoint-presentation-slide-show-microsoft-office-365-ppt-text-rectangle-presentation.png">
-
 [![PPT](https://w7.pngwing.com/pngs/980/706/png-transparent-microsoft-powerpoint-presentation-slide-show-microsoft-office-365-ppt-text-rectangle-presentation.png)](https://drive.google.com/drive/folders/16cjtx1r5zZsiqekZ_c-DLSvDyja6z6c_?usp=sharing){: width="100" height="100"}
