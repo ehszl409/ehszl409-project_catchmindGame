@@ -119,7 +119,7 @@
 
 [![초기화면](https://user-images.githubusercontent.com/39526249/102422691-ac746980-404a-11eb-84c7-3e2a5794eb88.png)](https://www.youtube.com/watch?v=OVq4EvkwDhk)
  
- 이미지클릭 해주세요.
+ 이미지를 클릭 해주세요.
  
  ### PPT 발표
 ----------------------------------------
