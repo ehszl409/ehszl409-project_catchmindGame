@@ -81,6 +81,7 @@
 
 
 ```
+![메인화면 프로토콜]<img width="802" alt="스크린샷 2020-12-19 오후 7 56 40" src="https://user-images.githubusercontent.com/73862305/102688296-40a42380-4239-11eb-8e68-77e101966995.png">
 
 
 
