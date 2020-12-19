@@ -121,7 +121,7 @@
  
  이미지를 클릭 해주세요.
  
- ### PPT 발표
+ ### PPT 
 ----------------------------------------
 
-
+[![PPT](https://user-images.githubusercontent.com/39526249/102422691-ac746980-404a-11eb-84c7-3e2a5794eb88.png)](https://drive.google.com/drive/folders/16cjtx1r5zZsiqekZ_c-DLSvDyja6z6c_?usp=sharing)
