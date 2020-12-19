@@ -119,7 +119,7 @@
 
 [![초기화면](https://user-images.githubusercontent.com/39526249/102422691-ac746980-404a-11eb-84c7-3e2a5794eb88.png)](https://www.youtube.com/watch?v=OVq4EvkwDhk)
  
- 이미지를 클릭 해주세요.
+- 이미지를 클릭 해주세요.
  
  ### PPT 
 ----------------------------------------
@@ -127,4 +127,6 @@
 <a href="https://drive.google.com/drive/folders/16cjtx1r5zZsiqekZ_c-DLSvDyja6z6c_?usp=sharing/">
 	<img src="https://w7.pngwing.com/pngs/980/706/png-transparent-microsoft-powerpoint-presentation-slide-show-microsoft-office-365-ppt-text-rectangle-presentation.png" height="100" width="100">
 <a>
+	
+- 이미지를 클릭 해주세요.
 
