@@ -124,4 +124,4 @@
  ### PPT 
 ----------------------------------------
 
-[![PPT](https://w7.pngwing.com/pngs/980/706/png-transparent-microsoft-powerpoint-presentation-slide-show-microsoft-office-365-ppt-text-rectangle-presentation.png)](https://drive.google.com/drive/folders/16cjtx1r5zZsiqekZ_c-DLSvDyja6z6c_?usp=sharing)
+[![PPT](https://w7.pngwing.com/pngs/980/706/png-transparent-microsoft-powerpoint-presentation-slide-show-microsoft-office-365-ppt-text-rectangle-presentation.png)]{: width="100" height="100"}(https://drive.google.com/drive/folders/16cjtx1r5zZsiqekZ_c-DLSvDyja6z6c_?usp=sharing)
