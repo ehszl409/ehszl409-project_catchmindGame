@@ -85,9 +85,7 @@
 <img width="802" alt="스크린샷 2020-12-19 오후 7 56 40" src="https://user-images.githubusercontent.com/73862305/102688296-40a42380-4239-11eb-8e68-77e101966995.png">
 
 - 그림방 프로토콜
-
-
-
+<img width="1153" alt="스크린샷 2020-12-19 오후 8 06 28" src="https://user-images.githubusercontent.com/73862305/102688384-bf00c580-4239-11eb-88c8-fb99f7a5847b.png">
 
 
 ### 핵심 기능 설명 
